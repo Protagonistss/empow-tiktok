@@ -1,0 +1,13 @@
+2025-07-24 22:21:26 | INFO | src.core:_setup_logging:36 | 日志系统初始化完成
+2025-07-24 22:21:26 | INFO | src.core:setup:40 | 开始初始化Apify数据集成工具
+2025-07-24 22:22:40 | INFO | src.core:_setup_logging:36 | 日志系统初始化完成
+2025-07-24 22:22:40 | INFO | src.core:setup:40 | 开始初始化Apify数据集成工具
+2025-07-24 22:23:28 | INFO | src.core:_setup_logging:36 | 日志系统初始化完成
+2025-07-24 22:28:31 | INFO | src.core:_setup_logging:36 | 日志系统初始化完成
+2025-07-24 22:28:31 | INFO | src.core:setup:40 | 开始初始化Apify数据集成工具
+2025-07-24 22:28:31 | INFO | src.apify_service:_initialize_client:51 | Apify客户端初始化成功
+2025-07-24 22:28:33 | ERROR | src.apify_service:test_connection:71 | 连接测试失败: User was not found or authentication token is not valid
+2025-07-24 22:35:01 | INFO | src.core:_setup_logging:36 | 日志系统初始化完成
+2025-07-24 22:35:01 | INFO | src.core:setup:40 | 开始初始化Apify数据集成工具
+2025-07-24 22:35:02 | INFO | src.apify_service:_initialize_client:51 | Apify客户端初始化成功
+2025-07-24 22:35:03 | ERROR | src.apify_service:test_connection:71 | 连接测试失败: User was not found or authentication token is not valid

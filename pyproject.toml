@@ -1,0 +1,15 @@
+[project]
+name = "empow-tiktok"
+version = "0.1.0"
+description = "Apify数据集成工具 - 后端逻辑验证"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "apify-client>=1.7.0",
+    "requests>=2.31.0",
+    "python-dotenv>=1.0.0",
+    "pydantic>=2.0.0",
+    "loguru>=0.7.0"
+]
+[tool.uv.pip]
+index-url = "https://pypi.tuna.tsinghua.edu.cn/simple"

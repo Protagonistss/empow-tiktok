@@ -11,5 +11,5 @@ dependencies = [
     "pydantic>=2.0.0",
     "loguru>=0.7.0"
 ]
-[tool.uv.pip]
+[tool.uv]
 index-url = "https://mirrors.aliyun.com/pypi/simple/"

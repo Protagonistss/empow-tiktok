@@ -19,3 +19,24 @@
 2025-07-25 23:17:09 | INFO | src.core:setup:40 | 开始初始化Apify数据集成工具
 2025-07-25 23:17:09 | INFO | src.apify_service:_initialize_client:51 | Apify客户端初始化成功
 2025-07-25 23:17:10 | ERROR | src.apify_service:test_connection:71 | 连接测试失败: User was not found or authentication token is not valid
+2025-07-25 23:23:18 | INFO | src.core:_setup_logging:36 | 日志系统初始化完成
+2025-07-25 23:23:18 | INFO | src.core:setup:40 | 开始初始化Apify数据集成工具
+2025-07-25 23:23:18 | INFO | src.apify_service:_initialize_client:51 | Apify客户端初始化成功
+2025-07-25 23:23:21 | ERROR | src.apify_service:test_connection:71 | 连接测试失败: User was not found or authentication token is not valid
+2025-07-26 10:26:10 | INFO | src.core:_setup_logging:36 | 日志系统初始化完成
+2025-07-26 10:26:10 | INFO | src.core:setup:40 | 开始初始化Apify数据集成工具
+2025-07-26 10:26:10 | INFO | src.apify_service:_initialize_client:51 | Apify客户端初始化成功
+2025-07-26 10:26:11 | ERROR | src.apify_service:test_connection:71 | 连接测试失败: User was not found or authentication token is not valid
+2025-07-26 10:34:01 | INFO | src.core:_setup_logging:36 | 日志系统初始化完成
+2025-07-26 10:34:01 | INFO | src.core:setup:40 | 开始初始化Apify数据集成工具
+2025-07-26 10:34:01 | INFO | src.apify_service:_initialize_client:51 | Apify客户端初始化成功
+2025-07-26 10:34:02 | ERROR | src.apify_service:test_connection:71 | 连接测试失败: User was not found or authentication token is not valid
+2025-07-26 10:34:51 | INFO | src.core:_setup_logging:36 | 日志系统初始化完成
+2025-07-26 10:34:51 | INFO | src.core:setup:40 | 开始初始化Apify数据集成工具
+2025-07-26 10:34:51 | INFO | src.apify_service:_initialize_client:51 | Apify客户端初始化成功
+2025-07-26 10:34:52 | INFO | src.apify_service:test_connection:68 | 连接测试成功，用户: protagonisths
+2025-07-26 10:34:52 | INFO | src.core:setup:79 | Apify数据集成工具初始化完成
+2025-07-26 10:34:52 | INFO | src.core:list_available_actors:98 | 获取可用Actor列表
+2025-07-26 10:34:52 | INFO | src.apify_service:list_actors:82 | 获取到 2 个Actor
+2025-07-26 10:35:25 | INFO | src.core:list_available_actors:98 | 获取可用Actor列表
+2025-07-26 10:35:26 | INFO | src.apify_service:list_actors:82 | 获取到 2 个Actor

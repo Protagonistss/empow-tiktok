@@ -94,7 +94,7 @@ class ApifyDataScraper:
         return str(filepath)
     
     def scrape_data(self, actor_id: str = "QwlnuM1ok9nxykQjF", 
-                   start_url: str = "https://www.tiktok.com/shop/pdp/2025-2026-daily-planner-by-the-dailee-goal-setting-scheduling-to-do-lists/1731200046599410414?source=ecommerce_mall&enter_from=ecommerce_mall&enter_method=homepage_product_feed_savings",
+                   start_url: str = "https://www.tiktok.com/shop/pdp/summer-fashion-camouflage-knee-jeans-retro-style-comfortable-fit/1731283688180650724?source=ecommerce_store&enter_from=ecommerce_store&enter_method=feed_list_store_list_product",
                    max_items: int = 100,
                    use_test_mode: bool = False) -> Dict[str, Any]:
         """执行数据爬取"""
